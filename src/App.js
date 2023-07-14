@@ -9,6 +9,7 @@ import ProductDetails from './components/ProductDetails';
 import Cart from './components/Cart';
 import PaymentMethods from './components/PaymentMethods';
 import About from './components/About';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route  path="/payment" element={< PaymentMethods/>} />
           <Route  path="/about" element={< About/>} />
         </Routes>
+        <Footer />
       </div>
     </Router>
   );
