@@ -1,0 +1,20 @@
+/* PaymentMethods.css */
+.payment-methods {
+  text-align: center;
+  padding: 20px;
+}
+
+.payment-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.payment-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.payment-item {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
