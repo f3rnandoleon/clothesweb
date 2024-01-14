@@ -31,7 +31,6 @@ function Home() {
   }
   const offers = [
     { id: 1, name: 'Oferta 1', price: 10, image: 'https://fairplaybo.vtexassets.com/assets/vtex.file-manager-graphql/images/4c90e7bd-3169-4717-83f2-bb14668a91ff___7763deb35201f492397d313c2736b016.jpg' },
-    { id: 6, name: 'Oferta 6', price: 15, image: 'https://f3rnandoleon.github.io/sistema_blog/imgs/libro.png' },
   ];
 
   const bestSellers = [

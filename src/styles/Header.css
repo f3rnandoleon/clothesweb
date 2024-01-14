@@ -76,6 +76,7 @@
   margin: 0;
   width:max-content;
   cursor: pointer;
+  z-index: 2;
 }
 
 .user-options li {
@@ -92,6 +93,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 2;
 }
 
 .cart-modal {
